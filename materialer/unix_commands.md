@@ -112,6 +112,7 @@
 * cmd + k : Clear terminal (you can also type: clear + enter)
 * TAB ⇥ : type the start of a file- or folder-name press TAB for autocomplete.
 
+Det er en ændring for at kunne lave et merge
 
 <div align="center">
 <a href="/../../../Lesson_01_introduction_to_python_and_python_strings/blob/master/README.md">back</a> 
